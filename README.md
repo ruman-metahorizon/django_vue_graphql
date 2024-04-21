@@ -1,0 +1,2 @@
+# django_vue_graphql
+django_vue_graphql
